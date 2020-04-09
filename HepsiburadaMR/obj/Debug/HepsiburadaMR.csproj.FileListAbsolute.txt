@@ -1,0 +1,7 @@
+C:\Users\shn\source\repos\HepsiburadaMR\bin\Debug\HepsiburadaMR.exe.config
+C:\Users\shn\source\repos\HepsiburadaMR\bin\Debug\HepsiburadaMR.exe
+C:\Users\shn\source\repos\HepsiburadaMR\bin\Debug\HepsiburadaMR.pdb
+C:\Users\shn\source\repos\HepsiburadaMR\obj\Debug\HepsiburadaMR.csprojAssemblyReference.cache
+C:\Users\shn\source\repos\HepsiburadaMR\obj\Debug\HepsiburadaMR.csproj.CoreCompileInputs.cache
+C:\Users\shn\source\repos\HepsiburadaMR\obj\Debug\HepsiburadaMR.exe
+C:\Users\shn\source\repos\HepsiburadaMR\obj\Debug\HepsiburadaMR.pdb
